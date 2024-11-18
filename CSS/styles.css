@@ -5,7 +5,7 @@ html, body{
 }
 
 body {
-    background-image: url("/imagenes/fondo.jpg");
+    background-image: url("./imagenes/fondo.jpg");
     background-size: cover; /* cover para que la imagen cubra todo */
     background-position: center; /* ajusta la imagen al centro */
     background-attachment: fixed; /* fija la imagen al fondo para evitar desplazamiento */
